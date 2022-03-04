@@ -1,5 +1,6 @@
 ## Learning to Map for Active Semantic Goal Navigation
 G.Georgakis, B.Bucher, K.Schmeckpeper, S.Singh, K.Daniilidis
+
 International Conference on Learning Representations (ICLR) 2020
 
 ### Dependencies
